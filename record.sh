@@ -1,0 +1,1 @@
+./gradlew executeScreenshotTests -Precord
